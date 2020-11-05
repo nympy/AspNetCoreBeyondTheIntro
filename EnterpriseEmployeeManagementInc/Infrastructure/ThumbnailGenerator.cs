@@ -83,7 +83,7 @@ namespace EnterpriseEmployeeManagementInc.Infrastructure
                          .Resize(new ResizeOptions
                          {
                              Mode = ResizeMode.Max,
-                             Size = new SixLabors.Primitives.Size(150, 150)
+                             Size = new SixLabors.ImageSharp.Size(150, 150)
                          }));
 
 

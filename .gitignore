@@ -44,3 +44,6 @@ node_modules/
 
 # Custom
 RuntimeStore/deployment
+
+# Jetbrains
+.idea/
